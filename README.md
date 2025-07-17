@@ -6,7 +6,6 @@ Welcome to **DLHandsOnPractice**, a repository designed for hands-on practice wi
 This repository serves as a learning resource, offering step-by-step implementations of key deep learning and machine learning techniques. Each notebook or script focuses on a specific concept, such as neural networks, regression, classification, and more, using the PyTorch framework. Whether you're studying for educational purposes or building your DL skills, this repo provides a solid foundation with real-world examples.
 
 ## Contents
-- **data/**: Contains datasets like CIFAR-10 batches, AirPassengers, Iris, diabetes, and housing data for experimentation.
 - **Notebooks/Scripts**:
   - `CNN with PyTorch.ipynb`: Implementation of Convolutional Neural Networks (CNNs).
   - `LSTM with PyTorch.ipynb`: Long Short-Term Memory (LSTM) networks example.
